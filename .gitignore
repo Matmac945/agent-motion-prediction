@@ -89,6 +89,7 @@ target/
 .mypy_cache/
 
 # Data
-/data
+data/lyft-motion-prediction-autonomous-vehicles
 
-notebooks/predictions
+# Heavy prediction files
+notebooks/predictions/*.csv

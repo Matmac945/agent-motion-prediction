@@ -2,6 +2,16 @@
 
 kaggle challenge Agent Motion Prediction
 
+---
+
+From the project root folder
+
+```
+conda env create -f environment.yml
+```
+
+To create env
+
 ## Project Organization
 
     ├── LICENSE
