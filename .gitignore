@@ -75,9 +75,6 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
-
 # Mac OS-specific storage files
 .DS_Store
 
@@ -88,8 +85,8 @@ target/
 # Mypy cache
 .mypy_cache/
 
-# Data
-data/lyft-motion-prediction-autonomous-vehicles
+# exclude data from source control by default
+data/lyft-motion-prediction-autonomous-vehicles/
 
 # Heavy prediction files
 notebooks/predictions/*.csv
